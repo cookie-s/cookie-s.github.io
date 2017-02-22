@@ -1,0 +1,55 @@
+body {
+}
+
+#global-nav {
+    width: 100%;
+    background-color: #555;
+    position: absolute;
+    top: 0;
+
+    & .container {
+        width: 1000px;
+        margin: 0 auto;
+        color: white;
+        min-height: 55px;
+        text-align: center;
+
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: stretch;
+
+        & a { 
+            width: 100%;
+            height: 100%;
+            text-decoration: none;
+            color: inherit;
+
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        & a:visited { color: inherit; }
+        & a:hover { background-color: #333; }
+
+        & .logo {
+            flex: 1 0;
+            margin: 0;
+            font-size: 18px;
+        }
+
+        & ul.navbar {
+            flex: 9 0;
+            list-style: none;
+            padding: 0;
+            margin: 0;
+
+            & li {
+                display: block;
+                width: calc(100.0%/9.0);
+                height: 100%;
+                font-size: 18px;
+            }
+        }
+    }
+}
