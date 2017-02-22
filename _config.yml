@@ -11,3 +11,6 @@ exclude:
   - Gemfile.lock
 
 timezone: Asia/Tokyo
+
+auto: true
+server: true
