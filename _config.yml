@@ -2,7 +2,7 @@ title: 'site-title'
 # email: your-email@domain.com
 description: >
   This is Cookies.
-google_analytics: ''
+google_analytics: 'UA-86972045-2'
 
 markdown: kramdown
 gems:
