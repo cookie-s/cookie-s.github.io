@@ -1,7 +1,8 @@
-title: "site-title"
+title: 'site-title'
 # email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   This is Cookies.
+google_analytics: ''
 
 # Build settings
 markdown: kramdown
