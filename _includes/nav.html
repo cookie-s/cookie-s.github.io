@@ -2,7 +2,9 @@
 	<div class="container">
 		<h1 class="logo"><a href="/">{{ site.title }}</a></h1>
 		<ul class="navbar">
-			<li><a href="/about/">About</a></li>
+			{% for nav in site.data.global-navs %}
+			<li><a href="{{ nav.url }}">{{ nav.name }}</a></li>
+			{% endfor %}
 		</ul>
 	</div>
 </nav>
