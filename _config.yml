@@ -1,13 +1,13 @@
 title: 'site-title'
 # email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   This is Cookies.
 google_analytics: ''
 
-# Build settings
 markdown: kramdown
-# theme: minima
 gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+timezone: Asia/Tokyo
