@@ -16,7 +16,7 @@ HandleName
 : Cookies or こおしいず [^1]
 
 Occupation
-: Student at [Dept. of Information Science][Dept IS], [School of Scicence][School Science], [Univ. of Tokyo][UTokyo]
+: Student at [Dept. of Information Science][Dept IS], [School of Science][School Science], [Univ. of Tokyo][UTokyo]
 
 From
 : Niigata
