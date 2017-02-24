@@ -22,7 +22,7 @@ From
 : Niigata
 
 License
-: 
+:
   - 1st Grade Driver's License
   - [KanKen](http://www.kanken.or.jp/kanken/) Grade 3
   - [SuKen](https://www.su-gaku.net/suken/) Pre-2nd Grade
@@ -30,7 +30,7 @@ License
   - [Applied Information Technology Engineer Examination](https://www.jitec.ipa.go.jp/index-e.html)
 
 Community
-: 
+:
   - [Theoretical Science Group][TSG] (a club in UT)
   - [wasamusume][wasa] (a [CTF team](https://ctftime.org/team/3655))
 
@@ -45,7 +45,7 @@ Community
 My Accounts
 -----------
 
-Please visit [links](/links.html)
+Please visit [links](/links.html).
 
 Activities
 ----------
@@ -54,7 +54,7 @@ Activities
 - [SECCON CTF 2012 in Yokohama][seccon2012-yokohama], won 1st prize as a team "wasamusume"
 - [SECCON CTF 2012 Final][seccon2012-final], won [2nd prize][seccon2012-final-result] as a team "wasamusume" ([blog](http://cookies.hatenablog.jp/entry/2013/02/25/213034))
 - [Security Camp 2013 in Tokyo][seccamp2013], as a tutor in Software Security class
-- Passed [CODE FESTIVAL 2015 Qual A][codefes-2015-quala] (122nd) and participated in [CODE FESTIVAL 2015][codefes-2015] 
+- Passed [CODE FESTIVAL 2015 Qual A][codefes-2015-quala] (122nd) and participated in [CODE FESTIVAL 2015][codefes-2015]
 
 [seccamp2012]: http://www.ipa.go.jp/jinzai/renkei/camp2012/
 [seccamp2013]: http://www.ipa.go.jp/jinzai/renkei/camp2013/
@@ -69,7 +69,7 @@ About This Site
 ===============
 
  This site is hosted on [GitHub Pages](https://pages.github.com/) and built with [Jekyll](https://jekyllrb.com/).
- The source code is public in [here](https://github.com/cookie-s/cookie-s.github.io/).
+ The source code is available in [here](https://github.com/cookie-s/cookie-s.github.io/).
 
 
 - - - -
