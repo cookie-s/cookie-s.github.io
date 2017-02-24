@@ -50,10 +50,10 @@ Please visit [links](/links.html)
 Activities
 ----------
 
-- [Security Camp 2012 in Tokyo][seccamp2012] as a student of Software Security class (in CTF, won 1st prize as a team \"\|\" (pipe) and won MVP as an individual)
-- [In SECCON CTF 2012 in Yokohama][seccon2012-yokohama], won 1st prize as a team "wasamusume"
-- [In SECCON CTF 2012 Final][seccon2012-final], won [2nd prize][seccon2012-final-result] as a team "wasamusume" ([blog](http://cookies.hatenablog.jp/entry/2013/02/25/213034))
-- [Security Camp 2013 in Tokyo][seccamp2013] as a tutor in Software Security class
+- [Security Camp 2012 in Tokyo][seccamp2012], as a student of Software Security class (in CTF, won 1st prize as a team \"\|\" (pipe) and won MVP as an individual)
+- [SECCON CTF 2012 in Yokohama][seccon2012-yokohama], won 1st prize as a team "wasamusume"
+- [SECCON CTF 2012 Final][seccon2012-final], won [2nd prize][seccon2012-final-result] as a team "wasamusume" ([blog](http://cookies.hatenablog.jp/entry/2013/02/25/213034))
+- [Security Camp 2013 in Tokyo][seccamp2013], as a tutor in Software Security class
 - Passed [CODE FESTIVAL 2015 Qual A][codefes-2015-quala] (122nd) and participated in [CODE FESTIVAL 2015][codefes-2015] 
 
 [seccamp2012]: http://www.ipa.go.jp/jinzai/renkei/camp2012/
