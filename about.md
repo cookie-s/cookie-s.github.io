@@ -24,7 +24,7 @@ From
 License
 : 
   - 1st Grade Driver's License
-  - [KanKen](http://www.kanken.or.jp/kanken/) Grade 2
+  - [KanKen](http://www.kanken.or.jp/kanken/) Grade 3
   - [SuKen](https://www.su-gaku.net/suken/) Pre-2nd Grade
   - [EIKEN](http://www.eiken.or.jp/eiken/en/) 2nd Grade
   - [Applied Information Technology Engineer Examination](https://www.jitec.ipa.go.jp/index-e.html)
