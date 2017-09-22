@@ -15,6 +15,9 @@ Basic Information
 HandleName
 : Cookies or こおしいず [^1]
 
+PGP FingerPrint
+: 598C8E59DE9C21FFEB434A3E 80B59E49 D6D9B0FD , [Keybase][Keybase]
+
 Occupation
 : Student at [Dept. of Information Science][Dept IS], [School of Science][School Science], [Univ. of Tokyo][UTokyo]
 
@@ -36,7 +39,8 @@ Community
 
 [^1]: call me "cookies" or "KO-O-SHI-I-ZU" fluently like "KOH-SHII-Z".
 
-[School Science]:http://www.s.u-tokyo.ac.jp/en/
+[Keybase]: https://keybase.io/kcz146
+[School Science]: http://www.s.u-tokyo.ac.jp/en/
 [Dept IS]: http://www.is.s.u-tokyo.ac.jp/english/
 [UTokyo]: http://www.u-tokyo.ac.jp/en/
 [TSG]: http://www.tsg.ne.jp/
