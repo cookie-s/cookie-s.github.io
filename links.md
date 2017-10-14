@@ -7,7 +7,7 @@ langs:
 ---
 
 Twitter
-: [@cookies146](https://twitter.com/cookies146/)
+: ~~[@cookies146](https://twitter.com/cookies146/)~~ [@kcz146](https://twitter.com/kcz146/)
 
 Blog
 : [cookies.txt     .scr](http://cookies.hatenablog.jp/)
