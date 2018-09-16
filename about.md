@@ -60,6 +60,8 @@ Activities
 - [SECCON CTF 2012 Final][seccon2012-final], won [2nd prize][seccon2012-final-result] as a team "wasamusume" ([blog](http://cookies.hatenablog.jp/entry/2013/02/25/213034))
 - [Security Camp 2013 in Tokyo][seccamp2013], as a tutor in Software Security class
 - Passed [CODE FESTIVAL 2015 Qual A][codefes-2015-quala] (122nd) and participated in [CODE FESTIVAL 2015][codefes-2015]
+- [CODE BLUE CTF 2018 Quals][codeblue-2018-qual], ranked [4th][codeblue-2018-qual-ranking] as a team "TSG"
+- [ISUCON8 Quals][isucon8-qual], ranked [2nd][isucon8-qual-ranking] as a team "FetchDecodeExecWrite" ([my blog](https://cookies.hatenablog.jp/entry/2018/09/16/230411))
 
 [seccamp2012]: http://www.ipa.go.jp/jinzai/renkei/camp2012/
 [seccamp2013]: http://www.ipa.go.jp/jinzai/renkei/camp2013/
@@ -68,6 +70,10 @@ Activities
 [seccon2012-final-result]: http://2012.seccon.jp/2013/02/blog-post_26.html
 [codefes-2015-quala]: http://code-festival-2015-quala.contest.atcoder.jp/
 [codefes-2015]: http://recruit-jinji.jp/code_fes2015/index.html
+[codeblue-2018-qual]: https://codeblue.jp/2018/en/
+[codeblue-2018-qual-ranking]: https://ctftime.org/event/636
+[isucon8-qual]: http://isucon.net/archives/52388756.html
+[isucon8-qual-ranking]: http://isucon.net/archives/52459414.html
 
 
 About This Site
