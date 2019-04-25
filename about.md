@@ -20,7 +20,7 @@ PGP FingerPrint
   > 598C8E59DE9C21FFEB434A3E 80B59E49 D6D9B0FD 
 
 Occupation
-: Student at [Dept. of Comuter Science][Dept CS], [Graduate School of Information Science][IS], [Univ. of Tokyo][UTokyo]
+: Student at [Dept. of Computer Science][Dept CS], [Graduate School of Information Science and Technology][IS], [Univ. of Tokyo][UTokyo]
 
 From
 : Niigata
