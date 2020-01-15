@@ -90,7 +90,7 @@ Activities
 About This Site
 ===============
 
- This site is hosted on [GitHub Pages](https://pages.github.com/) and built with [Jekyll](https://jekyllrb.com/).
+ This site is hosted on [GitHub Pages](https://pages.github.com/), built with [Jekyll](https://jekyllrb.com/), served via [Cloudflare](https://www.cloudflare.com/).
  The source code is available in [here](https://github.com/cookie-s/cookie-s.github.io/).
 
 
