@@ -13,7 +13,7 @@ Basic Information
 -----------------
 
 HandleName
-: Cookies or こおしいず [^1]
+: kcz or Cookies or こおしいず [^1]
 
 PGP FingerPrint
 : [Keybase][Keybase]
@@ -38,7 +38,7 @@ Community
   - [Theoretical Science Group][TSG] (a club in UT)
   - [wasamusume][wasa] (a [CTF team](https://ctftime.org/team/3655))
 
-[^1]: call me "cookies" or "KO-O-SHI-I-ZU" fluently like "KOH-SHII-Z".
+[^1]: call me "KOH-SHII-Z". "cookies" is ok, though.
 
 [Keybase]: https://keybase.io/kcz146
 [School Science]: http://www.s.u-tokyo.ac.jp/en/
