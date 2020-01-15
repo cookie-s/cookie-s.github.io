@@ -19,8 +19,8 @@ PGP FingerPrint
 : [Keybase][Keybase]
   > 598C8E59DE9C21FFEB434A3E 80B59E49 D6D9B0FD 
 
-Occupation
-: Student at [Dept. of Computer Science][Dept CS], [Graduate School of Information Science and Technology][IS], [Univ. of Tokyo][UTokyo]
+Education
+: Graduated from [Dept. of Information Science][IS], [School of Science][School Science], [Univ. of Tokyo][UTokyo]
 
 From
 : Niigata
@@ -41,8 +41,8 @@ Community
 [^1]: call me "cookies" or "KO-O-SHI-I-ZU" fluently like "KOH-SHII-Z".
 
 [Keybase]: https://keybase.io/kcz146
+[School Science]: http://www.s.u-tokyo.ac.jp/en/
 [IS]: https://www.i.u-tokyo.ac.jp/index_e.shtml
-[Dept CS]: https://www.is.s.u-tokyo.ac.jp/english/
 [UTokyo]: https://www.u-tokyo.ac.jp/en/
 [TSG]: https://tsg.ne.jp/
 [wasa]: http://wasamusu.me/
