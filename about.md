@@ -62,7 +62,9 @@ Activities
 - [ACM ICPC 2015 Domestic Quals][acm-icpc-2015-domestic-qual], ranked [12nd][acm-icpc-2015-domestic-qual-ranking] as a team "tekito"(satos, kivantium and me), but I did nothing but printing.
 - Passed [CODE FESTIVAL 2015 Qual A][codefes-2015-quala] (122nd) and participated in [CODE FESTIVAL 2015][codefes-2015]
 - [CODE BLUE CTF 2018 Quals][codeblue-2018-qual], ranked [4th][codeblue-2018-qual-ranking] as a team "TSG"(many)
-- [ISUCON8 Quals][isucon8-qual], ranked [2nd][isucon8-qual-ranking] as a team "FetchDecodeExecWrite"(moratorium, akouryy and me) ([my blog](https://cookies.hatenablog.jp/entry/2018/09/16/230411))
+- Competed in [ISUCON8 Final][isucon8-final] after ranking [2nd][isucon8-qual-ranking] in [ISUCON8 Quals][isucon8-qual] as a team "FetchDecodeExecWrite"(moratorium, akouryy and me) ([my blog](https://cookies.hatenablog.jp/entry/2018/09/16/230411))
+- Hosted 24h [TSG CTF][tsgctf-github] with [TSG][TSG] members. ([ctftime][tsgctf-ctftime])
+- Competed in [ISUCON9 Final][isucon9-final] after participating in [ISUCON9 Quals][isucon9-matome] as a team "FetchDecodeExecWrite".
 
 [seccamp2012]: http://www.ipa.go.jp/jinzai/renkei/camp2012/
 [seccamp2013]: http://www.ipa.go.jp/jinzai/renkei/camp2013/
@@ -77,6 +79,12 @@ Activities
 [codeblue-2018-qual-ranking]: https://ctftime.org/event/636
 [isucon8-qual]: http://isucon.net/archives/52388756.html
 [isucon8-qual-ranking]: http://isucon.net/archives/52459414.html
+[isucon8-final]: http://isucon.net/archives/52606851.html
+[tsgctf-github]: https://github.com/tsg-ut/tsgctf
+[tsgctf-ctftime]: https://ctftime.org/event/758
+[isucon9-matome]: http://isucon.net/archives/53570241.html
+[isucon9-final]: http://isucon.net/archives/53877800.html
+
 
 
 About This Site
