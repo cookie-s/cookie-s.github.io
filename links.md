@@ -33,11 +33,11 @@ ctftime.org
 akictf
 : [cookies146](http://ctf.katsudon.org/user/cookies146)
 
-AOJ
-: [cookies](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=cookies)
-
 AtCoder
 : [cookies](https://atcoder.jp/user/cookies)
+
+AOJ
+: [cookies](http://judge.u-aizu.ac.jp/onlinejudge/user.jsp?id=cookies)
 
 codeforces
 : [cookies146](http://codeforces.com/profile/cookies146)
