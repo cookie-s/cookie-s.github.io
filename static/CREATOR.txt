@@ -1,0 +1,31 @@
+* icon-2012-waku-salvaged
+creator: kcz (cookie-s)
+saver: Dropbox
+salvager: sitoo
+
+* icon-github
+creator: GitHub https://github.blog/2013-08-14-identicons/
+seeder: kcz (cookie-s)
+
+* icon-2013
+creator: kcz (cookie-s)
+
+* icon-2012-remake
+creator: kcz (cookie-s)
+
+* hakatashi
+original data: Google Maps
+collager: kcz (cookie-s)
+inspiration: hakatashi
+
+* icon-2019-uo
+creator: kcz (cookie-s)
+
+* shimashiizu-2020
+collager: Naan
+original: kcz (cookie-s)
+
+* /icon-2020-cookies?/
+creator: (secret)
+original: kcz (cookie-s)
+photographer: kcz (cookie-s)
