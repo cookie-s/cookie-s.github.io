@@ -1,3 +1,7 @@
+* icon-2012-48x48
+creator: kcz (cookie-s)
+salvager: k5342
+
 * icon-2012-waku-salvaged
 creator: kcz (cookie-s)
 saver: Dropbox
